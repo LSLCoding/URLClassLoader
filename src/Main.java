@@ -21,7 +21,7 @@ public class Main {
         ClassLoader classLoader = new URLClassLoader(urls);
 
         /*
-        Load class and then print the information
+        Load the class and then print the information
         EX: printInformation(classLoader.loadClass("com.example.project.Class"));
          */
     }
